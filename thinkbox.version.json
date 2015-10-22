@@ -1,9 +1,12 @@
 {
-"url": "http://",
-"name": "thinkbox_v2_apk",
-"version_code": "2",
+"url": "https://raw.githubusercontent.com/zhisichengwang/testGit2/master/",
+"name": "thinkbox_v2_apk.apk",
+"version_code": "20",
 "version_name": "2.0",
 "notes": [
-"add new function about ...."
+"add new function about ....",
+"add new feature about ....",
+"add new function1 about ....",
+"add new function2 about ...."
 ]
 }
